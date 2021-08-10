@@ -1,0 +1,4 @@
+{'name': 'Pham Cong Hai', 'date': '851999', 'sexual': 'Male', 'age': 23}
+{'name': 'Pham Cong Hai', 'date': '851999', 'sexual': 'Male', 'age': 23}
+{'name': 'Nguyen Quynh Hoa', 'date': '422000', 'sexual': 'Male', 'age': 22}
+{'name': 'Pham Hai', 'date': '851999', 'sexual': 'Male', 'age': 23}
